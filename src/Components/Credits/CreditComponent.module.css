@@ -1,0 +1,12 @@
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+    margin-top: 10px;
+    border-top: 5px ridge ;
+    justify-content: center;
+    text-align: center;
+}
+.link{
+    margin-top: 20px;
+}
