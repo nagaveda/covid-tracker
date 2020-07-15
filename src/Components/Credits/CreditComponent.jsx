@@ -22,7 +22,7 @@ const Credit = () =>{
             
             <TypographyTheme/>
             <div className={styles.link} >  
-            <a  target="_blank" href="https://www.google.com"><FontAwesomeIcon icon={faCodeBranch} /> Fork the project on Github</a>
+            <a  target="_blank" href="https://github.com/nagaveda/covid-tracker"><FontAwesomeIcon icon={faCodeBranch} /> Fork the project on Github</a>
             </div>
         </div>
     );
